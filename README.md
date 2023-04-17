@@ -1,5 +1,5 @@
-# Spring-2024-New-Grads
-A repository of Spring 2024 software engineering new graduate positions
+# Spring 2024 New Grads
+A repository of Spring 2024 software engineering - new graduate positions
 
 Special thanks to: [bsovs](https://github.com/bsovs) and [The Pitt CS Club](https://github.com/pittcsc) for providing templates and their previous work.
 
