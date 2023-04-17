@@ -27,7 +27,7 @@ To contribute:
  1. Fork repository
  2. Edit README.md
  3. Open a pull request!
-  A. It may take me a minute to view PRs, I'm a full-time student and intern! 
+    A. It may take me a minute to view PRs, I'm a full-time student and intern! 
 
 ---
 
