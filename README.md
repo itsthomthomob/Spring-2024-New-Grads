@@ -31,7 +31,7 @@ To contribute:
 
 ---
 
-## The List 👔
+## The List 🎓
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
