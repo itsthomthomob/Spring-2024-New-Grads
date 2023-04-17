@@ -28,7 +28,7 @@ To contribute:
  2. Edit README.md
  3. Open a pull request!
  
- _It may take me a minute to view PRs, I'm a full-time student and intern!_
+ _It may take me a minute to view PRs, I'm a full-time student and intern_ :)
 
 ---
 
