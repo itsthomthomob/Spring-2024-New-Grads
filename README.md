@@ -37,4 +37,4 @@ To contribute:
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
 |[Optiver](https://optiver.com/working-at-optiver/career-opportunities/6497784002/)|Chicago, Austin| Open | Expression of interest |
-|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB))|Americas| Open | Analyst Program (SWE) |
+|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB)| North America | Open | Analyst Program (SWE) |
