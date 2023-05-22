@@ -8,7 +8,7 @@ Special thanks to: [bsovs](https://github.com/bsovs) and [The Pitt CS Club](http
 <div align="center">
 	<p>
 		<a href="[https://simplify.jobs/?invite=2d8fe25021b&utm_source=referral](https://simplify.jobs/?invite=99e1e2d7da2&utm_source=referral)">
-			<b>Applying to internships?</b>
+			<b>Applying to graduate positions?</b>
 			<br>
 			Autofill all your applications in a single click.
 			<br>
