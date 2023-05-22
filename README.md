@@ -30,6 +30,8 @@ To contribute:
  
  _It may take me a minute to view PRs, I'm a full-time student and intern_ :)
 
+- I only add positions that are *actually* open. Star this repo and watch it to get notified!
+
 ---
 
 ## The List 🎓
