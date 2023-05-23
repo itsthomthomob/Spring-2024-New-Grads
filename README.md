@@ -5,7 +5,7 @@ Special thanks to: [bsovs](https://github.com/bsovs) and [The Pitt CS Club](http
 
 ---
 
-<div align="center">
+<div align="center" id="Visit_itsthomthomob_for_a_more_up-to-date_repo">
 	<p>
 		<a href="[https://simplify.jobs/?invite=2d8fe25021b&utm_source=referral](https://simplify.jobs/?invite=99e1e2d7da2&utm_source=referral)">
 			<b>Applying to graduate positions?</b>
