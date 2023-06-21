@@ -47,3 +47,4 @@ Repo Info:
 |~~PerPay~~| ~~PHILADELPHIA, PA~~ | Closed? | Recruiters made a typo |
 |[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate-Rotation--Early-2024-Start-Date----Avionics-Software_R34600?mode=job&iis=Job+Board&iisn=Indeed)| Seattle, WA | Open | SWE | Green card or citizen
 |[Tesla](https://www.tesla.com/careers/search/job/new-programs-engineering-firmware-engineering-internship-spring-2024-199465?source=LinkedIn)|Fremont, CA| Open| Firmware Engineering|
+|[Ansys](https://careers.ansys.com/job/R&D-Engineer/1042490800/)| Austin, TX| Open|R&D Engineer (Mechanical FEA)|
